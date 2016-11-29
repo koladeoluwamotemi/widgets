@@ -1,0 +1,87 @@
+
+body{
+	background-color: #A9A9A9;
+}
+/* CSS FOR NAVIGATION WIDGET*/
+.btn-lg{
+	font-size: 20px;
+	font-family: 'BenchNine', sans-serif !important;
+	background-color: #FEFEFA;
+}
+
+.widget1{
+	
+	margin-top: 50px;
+	margin-left: 50px;
+}
+h1{
+font-family: 'BenchNine', sans-serif !important;
+
+}
+.label-danger {
+border-radius: 1em
+}
+label.btn:hover{
+background: #7BB661;
+}
+
+input[type=radio]:checked+label {
+    background: red;
+}/* CSS FOR NAVIGATION WIDGET ENDS HERE*/
+
+
+
+
+
+/* CSS FOR ACCOUNT WIDGET*/
+.panel-default > .panel-heading {
+	font-family: 'BenchNine', sans-serif !important;
+  background-color: #614051;
+  color: white;
+}
+.panel-default > .panel-body {
+	font-family: 'BenchNine', sans-serif !important;
+  background-color:#F7E7CE;
+ font-size: 15px;
+}
+.widget2{
+	margin-top: 50px;
+	margin-left: 50px;
+	width: 400px;
+}
+.glyph1{
+	float:right;
+}
+
+.glyph2, .glyph3{
+    color:red;
+}
+.headtext{
+	float: right;
+}
+
+.secondWidget, .secondWidgetClick{
+    background-color:#f7f7f7!important;
+    border-left:2px solid #7BB661;
+    cursor:pointer;
+}
+
+
+a{
+    color: white;
+}
+
+
+a:hover{
+	color: red;
+}
+
+.img{
+
+	border-radius:50%;
+    height:120px;
+    width:120px;
+    border:5px solid white;
+}
+/* CSS FOR ACCOUNT WIDGET ENDS HERE
+*/
